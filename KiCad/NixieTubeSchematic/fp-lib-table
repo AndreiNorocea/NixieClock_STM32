@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "NixieTube")(type "KiCad")(uri "${KIPRJMOD}/NixieTube.pretty")(options "")(descr ""))
+)

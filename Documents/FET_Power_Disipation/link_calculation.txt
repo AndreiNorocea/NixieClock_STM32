@@ -1,0 +1,1 @@
+https://electronics.stackexchange.com/questions/505528/why-do-i-get-such-high-values-when-calculating-the-power-dissipation-of-mosfet-i
